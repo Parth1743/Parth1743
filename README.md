@@ -1,7 +1,7 @@
 ## Hi I am Parth garg👋
 ## Chilling ✌️✨
 Software Engineer and AI Enthusiast👨‍💻
-- 🔭 I’m currently working on myslef💪
+- 🔭 I’m currently working on myself💪
 - 🌱 I’m currently learning Machine learnig and DSA💻
 - 👯 I’m looking to collaborate on new technologies and projects📖
 - 📫 How to reach me:Just reach me out at www.linkedin.com/in/parth-garg-946227256 😉
