@@ -6,7 +6,7 @@ Software Engineer and AI Enthusiast👨‍💻
 - 👯 I’m looking to collaborate on new technologies and projects📖
 - 📫 How to reach me:Just reach me out at www.linkedin.com/in/parth-garg-946227256 😉
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am wierd🤪
+- ⚡ Fun fact: If you fell into a black hole, you’d be "spaghettified"🤪
   
 
 ## 🌐 Socials:
