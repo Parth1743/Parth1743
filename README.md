@@ -4,7 +4,7 @@ Software Engineer and AI Enthusiast👨‍💻
 - 🔭 I’m currently working on myself💪
 - 🌱 I’m currently learning Machine learnig and DSA💻
 - 👯 I’m looking to collaborate on new technologies and projects📖
-- 📫 How to reach me:Just reach me out at www.linkedin.com/in/parth-garg-946227256 😉
+- 📫 How to reach me:Just reach me out at www.linkedin.com/in/parth-garg-946227256 or https://parth1743.github.io/personal-portfolio/  😉
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you fell into a black hole, you’d be "spaghettified"🤪
   
