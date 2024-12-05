@@ -28,7 +28,6 @@ Software Engineer and AI Enthusiast👨‍💻
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🤝 Contributions:
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Parth1743/Parth1743/output/github-contribution-grid-snake-dark-custom.svg">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
