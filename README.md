@@ -18,6 +18,8 @@ Software Engineer and AI Enthusiast👨‍💻
 ## 🏆 LeetCode
 
 ![](https://leetcard.jacoblin.cool/parthgarg1743?ext=activity)
+
+[![](https://visitcount.itsvg.in/api?id=ayusharma03&icon=2&color=6)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
 
 # 📊 GitHub Stats:
@@ -25,5 +27,8 @@ Software Engineer and AI Enthusiast👨‍💻
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 🤝 Contributions:
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Parth1743/Parth1743/output/github-contribution-grid-snake-dark-custom.svg">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
